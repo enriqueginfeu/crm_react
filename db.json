@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "enrique",
+      "empresa": "casa chota",
+      "email": "email@email.com",
+      "telefono": "1155448877",
+      "observaciones": "",
+      "id": 2
+    },
+    {
+      "nombre": "enrique 2",
+      "empresa": "adidas",
+      "email": "email@email.com",
+      "telefono": "1155448877",
+      "observaciones": "",
+      "id": 3
+    },
+    {
+      "nombre": "marina",
+      "empresa": "electro muebles",
+      "email": "marina@marina.com.ar",
+      "telefono": "1155448877",
+      "observaciones": "venta de electrodomesticos y muebles",
+      "id": 4
+    },
+    {
+      "nombre": "antonio",
+      "empresa": "megaclick",
+      "email": "kike@kike.com",
+      "telefono": "1199887744",
+      "observaciones": "venta de insumos informaticos",
+      "id": 5
+    },
+    {
+      "nombre": "lorenzo",
+      "empresa": "baby shark",
+      "email": "lolo@lolo.com",
+      "telefono": "1155566622",
+      "observaciones": "pide presupuesto",
+      "id": 6
+    },
+    {
+      "nombre": "marina 2",
+      "empresa": "samsung",
+      "email": "mail@mail.com",
+      "telefono": "1157572323",
+      "observaciones": "",
+      "id": 7
+    }
+  ]
+}
